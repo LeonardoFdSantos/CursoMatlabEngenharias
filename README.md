@@ -19,13 +19,13 @@ Conforme o prosseguimento do curso, será disposto um resumo em cada tropico das
 
 2. Vetores e Matrizes:
 
-	2.1. Inserindo Vetores e Matrizes.
+	[2.1. Inserindo Vetores e Matrizes.](../master/2.%20Vetores%20e%20Matrizes/2.1.%20Inserindo%20Vetores%20e%20Matrizes.md)
 
-	2.2. Acessar e Modificar valores de Vetores e Matrizes.
+	[2.2. Acessar e Modificar valores de Vetores e Matrizes.](../master/2.%20Vetores%20e%20Matrizes/2.2.%20Acessar%20e%20Modificar%20valores%20de%20Vetores%20e%20Matrizes.md)
 
-	2.3. Operação com Matrizes.
+	[2.3. Operação com Matrizes.](../master/2.%20Vetores%20e%20Matrizes/2.3.%20Operação%20com%20Matrizes.md)
 
-	2.4. Matrizes Inversas, transpostas e Determinantes.
+	[2.4. Matrizes Inversas, transpostas e Determinantes.](../master/2.%20Vetores%20e%20Matrizes/2.4.%20Matrizes%20Inversas%2C%20transpostas%20e%20Determinantes.md)
 
 
 3. Estatística (Básica):
